@@ -11,3 +11,5 @@ Dashes: lists
 Stars around word or section: ital; double stars: bold
 **word**
 ***bold***
+
+- list
